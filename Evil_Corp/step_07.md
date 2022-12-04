@@ -1,11 +1,9 @@
-### Mr E.Vil writes you an email
+### Mr E.Vil is in video chat with you
 
-Great work for now...
+Excellent...
 
-Lots of companies are starting to use our tool. Perfect!
-
-The censorship department of Faisbuk ask us to add a functionality.
-They are receiving complains from journalists that all the text analyzed is redacted and they want to have only a certain lines of text to be analyzed from the program.
+Faisbuk is pleased, but now Coocle needs something from us.
+When we select some lines for the censorship we have to 
 
 For example, if the text is:
 
@@ -23,4 +21,4 @@ please join us in this rebellion!
 <ins>we have cookies!</ins>
 </pre></code>
 
-Please, go and do this..... NOW!
+Is very late... You should sleep... when you are dead! GO AND DO THIS!
